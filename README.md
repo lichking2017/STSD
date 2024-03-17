@@ -3,7 +3,7 @@ A large-scale, multi-modal dataset for semantic segmentation of subway tunnel po
 
 ## Download
 
-Please fill this [**Data request form**](https://docs.google.com/forms/d/1TJChwoanKUs9qZhckt_v5rv9QElYH0Dfx-_aD5ofsEQ/edit)
+Please fill this [**Data request form**](   null )
 
 Download links will be sent automatically after completing the application.
 
