@@ -53,12 +53,3 @@ Table 3. Evaluation IoU results of each model on STSD. (The best result for each
 Fig.6. Detailed comparison of point cloud semantic segmentation results of each model: (a) Intensity, (b) Ground truth, (c) HRNet, (d) OCRNet, (e) DeepLabv3+, (f) PSPNet, (g) SegFormer, (h) RandLA-Net, (i) SCF-Net.
 
 
-## Citation
-
-If you find our work useful in your research, please cite:
-
-```
-@article{
-
-}
-```
