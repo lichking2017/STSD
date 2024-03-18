@@ -18,21 +18,21 @@ A typical segment of tunnel data in STSD is as follows:
 Fig.2. Example of a quasi-rectangular tunnel segment in STSD dataset: (a) side view of point cloud colored by intensity, (b) side view of point cloud colored by category, (c) top view of point cloud, (d) label visualization image, (e) label channel image, (f) H channel image, (g) Z channel image, (h) intensity channel image. 
 
 Table 1. Details of the data source
-<img src="img\fig3.png" alt="Network" style="zoom:100%;" />
+<div align=center><img src="img\fig3.png" alt="Network" style="zoom:40%;" />
 
-<img src="img\fig9.png" alt="Network" style="zoom:100%;" />
+<div align=center><img src="img\fig9.png" alt="Network" style="zoom:40%;" />    
+
 Fig.3.Overall top view of subway tunnel point cloud used in STSD (The discontinuous parts in the point cloud of the quasi-rectangular and circular tunnels are subway stations, their point cloud was excluded from the data source).      
 
 
 The tunnel is divied into 264 segments, with each segment consisting of annotated LAS files of point clouds, along with annotated image files. The details of image are as follows:  
-Table 2. Details of the data files.
-<img src="img\fig4.png" alt="Network" style="zoom:100%;" />
+<div align=center><img src="img\fig4.png" alt="Network" style="zoom:40%;" />
 ### 1.2 Data collection
 The data was collected with Rail Mobile Measurement System (rMMS), which was introducted in our previous work [**Shield subway tunnel deformation detection based on mobile laser scanning**](https://www.sciencedirect.com/science/article/pii/S0926580518309737) 
 
 ### 1.3 Annotation Detail
 Table 2. Annotation details of subway tunnels in STSD
-<img src="img\fig1.png" alt="Network" style="zoom:100%;" />
+<div align=center><img src="img\fig1.png" alt="Network" style="zoom:40%;" />
 
 <img src="img\fig10.png" alt="Network" style="zoom:100%;" />
 Fig.4.(a) Color legend, (b-d) Labeled projected image of Quasi-rectangular tunnel, horseshoe-shaped tunnel, circular tunnel.
