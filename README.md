@@ -27,6 +27,7 @@ Fig.3.Overall top view of subway tunnel point cloud used in STSD (The discontinu
 
 The tunnel is divied into 264 segments, with each segment consisting of annotated LAS files of point clouds, along with annotated image files. The details of image are as follows:  
 <div align=center><img src="img\fig4.png" alt="Network" style="zoom:40%;" />
+
 ### 1.2 Data collection
 The data was collected with Rail Mobile Measurement System (rMMS), which was introducted in our previous work [**Shield subway tunnel deformation detection based on mobile laser scanning**](https://www.sciencedirect.com/science/article/pii/S0926580518309737) 
 
