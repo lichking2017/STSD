@@ -47,7 +47,7 @@ Fig.5. Statistics of STSD.
 STSD is tested in several DL 2D and 3D segmentation networks, including classical and state-of-the-art ones, to verify its availability.
 
 Table 3. Evaluation IoU results of each model on STSD. (The best result for each row is bolded. First five segmentation models use 2D IZH channel input, and the last two segmentation models use 3D XYZI input)
-<img src="img\fig7.png" alt="Network" style="zoom:100%;" />
+<img src="img\fig7x.png" alt="Network" style="zoom:100%;" />
 
 <img src="img\fig8.png" alt="Network" style="zoom:100%;" />
 Fig.6. Detailed comparison of point cloud semantic segmentation results of each model: (a) Intensity, (b) Ground truth, (c) HRNet, (d) OCRNet, (e) DeepLabv3+, (f) PSPNet, (g) SegFormer, (h) RandLA-Net, (i) SCF-Net.
