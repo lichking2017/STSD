@@ -7,6 +7,21 @@ Please fill this [**Data request form**](https://docs.google.com/forms/d/1TJChwo
 
 Download links will be sent automatically after completing the application.
 
+## Citation
+
+If you find our work helpful, please cite:
+@article{CUI2024105829,
+title = {STSD:A large-scale benchmark for semantic segmentation of subway tunnel point cloud},
+journal = {Tunnelling and Underground Space Technology},
+volume = {150},
+pages = {105829},
+year = {2024},
+issn = {0886-7798},
+doi = {https://doi.org/10.1016/j.tust.2024.105829},
+url = {https://www.sciencedirect.com/science/article/pii/S0886779824002475},
+author = {Hao Cui and Jian Li and Qingzhou Mao and Qingwu Hu and Cuijun Dong and Yiwen Tao}
+}
+
 ## Dataset
 ### 1.1 Overview
 STSD is a multi-modal dataset for semantic segmentation of subway tunnels point cloud, consisting of two modality, point cloud and projected images. Three types of subway tunnels, quasi-rectangular, horseshoe, and circular is included in STSD.
